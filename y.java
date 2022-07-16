@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class Year {
     public static void main(String[] args) {
         // declare variables
         int year;
